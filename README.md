@@ -1,5 +1,5 @@
 # Ensnare
-Ensnare host for a discord theme.
+Github page on a personal project "Ensnare" discord theme
 
 this is my own project if you somehow found this you can go ahead and ignore it
 
